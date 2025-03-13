@@ -109,6 +109,21 @@
         <mxCell id="XpanDWUdyVbDDGubJ95n-30" value="PPP : Priority point between 1 and 10&lt;div&gt;Task Done = Count of Tasks&lt;/div&gt;&lt;div&gt;Total PPP = sum of PPP&lt;br&gt;Average PPP = mean of total PPP&lt;/div&gt;&lt;div&gt;Effieciency = Average/10 * 100&amp;nbsp;&lt;/div&gt;&lt;div&gt;Progress rate = 100 - efficiency where efficiency &amp;gt;= 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="333" width="310" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="XpanDWUdyVbDDGubJ95n-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpanDWUdyVbDDGubJ95n-31" target="XpanDWUdyVbDDGubJ95n-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpanDWUdyVbDDGubJ95n-31" value="Register&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;(set name, age , password)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XpanDWUdyVbDDGubJ95n-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpanDWUdyVbDDGubJ95n-32" target="XpanDWUdyVbDDGubJ95n-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpanDWUdyVbDDGubJ95n-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; click on start task" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XpanDWUdyVbDDGubJ95n-33" value="give&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;parametric value&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
